@@ -2,13 +2,10 @@
 
 KiCad footprints for Particle hardware (e.g. Core, Photon, Electron).
 
-## Finished
-
-- Photon
-
-## Missing
+## Included Footprints
 
 - Core
+- Photon
 - Electron
 
 Feel free to contribute additional footprints!
